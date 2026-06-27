@@ -42,7 +42,7 @@ The project includes database creation, SQL business reports, data analysis, and
 
 ## 📷 Dashboard Preview
 
-![Dashboard]("C:\Users\admin\Downloads\dashboard.png")
+![Dashboard](dashboard.png)
 
 ---
 
